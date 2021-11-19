@@ -14,10 +14,18 @@ You need to:
 Ask Ram to help you with.
 
 
+## Get Started
+
+1. Login to Azure DevOps
+2. Choose the `CICDTemplateSamples` in our organization (you'll
+   have no doubt guessing its name).
+3. Inspect and follow instructions in the `0-readme-first` 
+   repository.
+
 ## Disclaimers
 
 We only support:
 
 1. cloud Azure DevOps;
-2. YAML Azure DevOps pielines; Classic pipelines are not  
-   supported
+2. YAML Azure DevOps pipelines; look for Classic pipelines support 
+   elsewhere.
