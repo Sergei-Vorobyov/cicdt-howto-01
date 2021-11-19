@@ -17,7 +17,7 @@ Ask Ram to help you with.
 
 1. Login to Azure DevOps.
 2. Choose the `CICDTemplateSamples` in our title organization.
-3. Inspect and follow instructions in the `0-readme-first` 
+3. Inspect and follow instructions in the `0-read-me-first` 
    repository.
 
 ## Disclaimers
