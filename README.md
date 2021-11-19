@@ -1,6 +1,6 @@
 # 2021-11-19: Cloud Azure DevOps Onboarding
 
-## You Need To:
+## You Need To (Prerequisites):
 
 1. get Azure DevOps licenses for your developers;
 2. create an Azure DevOps project in our title organization, or 
