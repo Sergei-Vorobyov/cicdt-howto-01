@@ -24,6 +24,6 @@ Ask Ram to help you with.
 
 We only support:
 
-1. cloud Azure DevOps;
+1. cloud Azure DevOps; look for on-prem Azure DevOps support elsewhere. 
 2. YAML Azure DevOps pipelines; look for Classic pipelines support 
    elsewhere.
