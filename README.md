@@ -4,9 +4,9 @@
 
 You need to:
 
-1. get Azure DevOps license
+1. get an Azure DevOps license for your developers;
 2. create an Azure DevOps project in an appropriate organization 
-   where you will conduct your development
+   where you will conduct your development;
 3. get access to the `CICDTemplateSamples` project, which
    contains a lot of samples, instructions, pipelines, templates 
    to help your onboarding.
