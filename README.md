@@ -16,6 +16,8 @@ Ask Ram to help you with.
 
 ## Disclaimers
 
-1. We only support the cloud Azure DevOps;
-2. We only support YAML Azure DevOps pielines; no Classic pipelines 
+We only support:
+
+1. cloud Azure DevOps;
+2. YAML Azure DevOps pielines; Classic pipelines are not  
    supported
